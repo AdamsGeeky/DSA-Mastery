@@ -1,0 +1,100 @@
+- [ ] **Data Structures and Algorithms (DSA) Syllabus**
+    - [ ] **Problem Practice and Problem-Solving**
+        - [ ] Introduction to Problem-Solving with DSA
+        - [ ] Real-world Applications of DSA
+        - [ ] Problem-Solving Strategies
+        - [ ] LeetCode, Codeforces, and Other Platforms
+        - [ ] Interview Preparation Techniques
+    - [ ] **Introduction to DSA**
+        - [ ] What are Data Structures and Algorithms?
+        - [ ] Importance of DSA in Computer Science
+        - [ ] Role of Memory Management in DSA
+        - [ ] Input and Output Operations
+    - [ ] **Arrays**
+        - [ ] Introduction to Arrays
+        - [ ] Memory Management in Arrays
+        - [ ] Input and Output with Arrays
+        - [ ] ArrayList Introduction
+        - [ ] Common Operations on Arrays
+        - [ ] Space and Time Complexity Analysis for Array Operations
+    - [ ] **Searching Algorithms**
+        - [ ] Linear Search
+            - [ ] Basic Linear Search
+            - [ ] Linear Search with Enhanced Features
+            - [ ] Space and Time Complexity Analysis for Linear Search
+        - [ ] Binary Search
+            - [ ] Introduction to Binary Search
+            - [ ] Recursive Binary Search
+            - [ ] Iterative Binary Search
+            - [ ] Space and Time Complexity Analysis for Binary Search
+        - [ ] Modified Binary Search Techniques
+        - [ ] Binary Search on 2D Arrays
+            - [ ] Row-wise and Column-wise Sorted Arrays
+            - [ ] Space and Time Complexity Analysis for 2D Array Search
+    - [ ] **Sorting Algorithms**
+        - [ ] Introduction to Sorting
+        - [ ] Insertion Sort
+            - [ ] Basic Insertion Sort
+            - [ ] Binary Insertion Sort
+            - [ ] Space and Time Complexity Analysis for Insertion Sort
+        - [ ] Selection Sort
+            - [ ] Basic Selection Sort
+            - [ ] Modified Selection Sort
+            - [ ] Space and Time Complexity Analysis for Selection Sort
+        - [ ] Bubble Sort
+            - [ ] Basic Bubble Sort
+            - [ ] Optimized Bubble Sort
+            - [ ] Space and Time Complexity Analysis for Bubble Sort
+        - [ ] Cyclic Sort
+            - [ ] Understanding Cyclic Sort
+            - [ ] Applications of Cyclic Sort
+            - [ ] Space and Time Complexity Analysis for Cyclic Sort
+    - [ ] **Linked Lists**
+        - [ ] Introduction to Linked Lists
+        - [ ] Types of Linked Lists (Singly, Doubly, Circular)
+        - [ ] Memory Management in Linked Lists
+        - [ ] Operations on Linked Lists
+        - [ ] Reversing a Linked List
+        - [ ] Detecting and Handling Loops in Linked Lists
+        - [ ] Space and Time Complexity Analysis for Linked List Operations
+    - [ ] **Stacks and Queues**
+        - [ ] Introduction to Stacks and Queues
+        - [ ] Implementation and Operations in Stacks
+        - [ ] Implementation and Operations in Queues
+        - [ ] Evaluating Expressions using Stacks
+        - [ ] Solving Problems with Queues
+        - [ ] Space and Time Complexity Analysis for Stack and Queue Operations
+    - [ ] **Trees and Graphs**
+        - [ ] Introduction to Trees and Graphs
+        - [ ] Types of Trees (Binary, Binary Search, AVL, Red-Black, etc.)
+        - [ ] Basic Tree Operations (Traversal, Insertion, Deletion)
+        - [ ] Graph Representations (Adjacency Matrix, Adjacency List)
+        - [ ] Graph Traversal Algorithms (BFS, DFS)
+        - [ ] Minimum Spanning Trees (Prim's, Kruskal's)
+        - [ ] Space and Time Complexity Analysis for Tree and Graph Operations
+    - [ ] **Sorting and Searching in Advanced Data Structures**
+        - [ ] Sorting in Arrays and Linked Lists
+        - [ ] Sorting in Trees (Heap Sort, BST Sort)
+        - [ ] Searching in Trees (Binary Search Trees)
+        - [ ] Hashing and Hash Tables
+        - [ ] Collision Handling (Open Addressing, Chaining)
+        - [ ] Searching in Hash Tables
+        - [ ] Space and Time Complexity Analysis for Advanced Data Structures
+    - [ ] **Dynamic Programming**
+        - [ ] Introduction to Dynamic Programming
+        - [ ] Top-Down vs. Bottom-Up Approach
+        - [ ] Solving Classical Problems (Fibonacci, Longest Common Subsequence)
+        - [ ] Optimization Problems with DP
+        - [ ] Space and Time Complexity Analysis for Dynamic Programming
+    - [ ] **Advanced Topics**
+        - [ ] String Algorithms (Pattern Matching, Longest Common Prefix)
+        - [ ] Advanced Graph Algorithms (Shortest Paths, Topological Sorting)
+        - [ ] Divide and Conquer Algorithms (Merge Sort, Quick Sort)
+        - [ ] Greedy Algorithms (Kruskal's, Dijkstra's)
+        - [ ] Computational Complexity (Big O Notation)
+        - [ ] Space and Time Complexity Analysis for Advanced Algorithms
+    - [ ] **Capstone Project**
+        - [ ] Design and Implement a DSA-based Project
+        - [ ] Apply DSA Concepts to Real-world Scenarios
+        - [ ] Project Presentation and Documentation
+        - [ ] Space and Time Complexity Analysis for the Capstone Project
