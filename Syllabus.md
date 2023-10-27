@@ -13,7 +13,7 @@
     - [ ] **Arrays**
         - [ ] Introduction to Arrays
         - [ ] Memory Management in Arrays
-        - [ ] Input and Output with Arrays
+        -        [ ] Input and Output with Arrays
         - [ ] ArrayList Introduction
         - [ ] Common Operations on Arrays
         - [ ] Space and Time Complexity Analysis for Array Operations
@@ -96,5 +96,4 @@
     - [ ] **Capstone Project**
         - [ ] Design and Implement a DSA-based Project
         - [ ] Apply DSA Concepts to Real-world Scenarios
-        - [ ] Project Presentation and Documentation
         - [ ] Space and Time Complexity Analysis for the Capstone Project
