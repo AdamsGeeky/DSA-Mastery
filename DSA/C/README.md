@@ -1,46 +1,11 @@
-### Days 1-10: Introduction and Fundamentals
+# Introduction and Fundamentals
 
-- **Days 1-3:** Start with an overview of the importance and applications of data structures and algorithms.
-- **Days 4-6:** Learn about time complexity, Big O notation, and the basics of algorithm analysis.
-- **Days 7-10:** Begin with the fundamental data structures: arrays, linked lists, stacks, and queues.
+## Essential  
 
-### Days 11-20: Intermediate Data Structures
-
-- **Days 11-14:** Dive deeper into trees (binary trees, binary search trees, AVL trees).
-- **Days 15-17:** Explore graphs and their representations (adjacency matrix, adjacency list).
-- **Days 18-20:** Understand hash tables and their implementations.
-
-### Days 21-30: Sorting and Searching Algorithms
-
-- **Days 21-24:** Study sorting algorithms (bubble sort, insertion sort, selection sort, merge sort, quicksort).
-- **Days 25-27:** Focus on searching algorithms (linear search, binary search).
-- **Days 28-30:** Practice implementing these algorithms in your preferred programming language.
-
-### Days 31-40: Algorithm Design Techniques
-
-- **Days 31-34:** Learn about divide and conquer algorithms (merge sort, binary search).
-- **Days 35-37:** Dynamic programming concepts and examples (fibonacci sequence, knapsack problem).
-- **Days 38-40:** Greedy algorithms and their applications.
-
-### Days 41-50: Problem-Solving Practice
-
-- **Days 41-45:** Solve problems on platforms like LeetCode, HackerRank, or CodeSignal focusing on the covered concepts.
-- **Days 46-50:** Continue practicing and try to solve increasingly complex problems, focusing on understanding efficient solutions.
-
-### Days 51-60: Review and Projects
-
-- **Days 51-55:** Review weak areas and reattempt problems that were challenging initially.
-- **Days 56-60:** Work on a small project where you can implement data structures and algorithms in a practical scenario (e.g., building a simple search engine or a scheduling system).
-
-### Essential 20% of Learnings (Pareto Principle)
-
-- **Understanding Big O Notation:** This helps in analyzing the efficiency of algorithms.
-- **Arrays and Linked Lists:** Fundamentals for understanding other data structures.
-- **Trees and Graphs:** Fundamental for hierarchical and complex data representation.
-- **Sorting Algorithms:** Understanding sorting principles is crucial for various applications.
+- **Understanding Big O Notation:** This helps in analyzing the efficiency of 
 - **Problem-Solving Approaches:** Mastering different algorithmic approaches like divide and conquer, dynamic programming, and greedy algorithms.
 
-### Days 1-10:
+## Days 1-10:
 
 - Learn the basics of DSA:
   - What are data structures and algorithms?
@@ -95,18 +60,4 @@
   - How to represent a graph in your chosen programming language.
   - Common graph algorithms, such as breadth-first search and depth-first search.
 
-### Most important 20% of learnings that will help you understand 80% of DSA:
-
-**Data structures:**
-- Arrays
-- Linked lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-
-**Algorithms:**
-- Searching algorithms, such as linear search and binary search.
-- Sorting algorithms, such as insertion sort, merge sort, and quicksort.
-- Tree traversal algorithms, such as preorder, inorder, and postorder traversal.
-- Graph algorithms, such as breadth-first search and depth-first search.
+- **projects** Work on a small project where you can implement data structures and algorithms in a practical scenario (e.g., building a simple search engine or a scheduling system).
